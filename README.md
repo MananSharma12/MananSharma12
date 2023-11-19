@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manansharma12" alt="manansharma12" /></a> </p>
 
-- 🌱 I’m currently learning **Magento, React, Vue, and Backend in General**
+- 🌱 I’m currently learning **HydrogenJS, Magento and Backend in General**
 
 - 📫 You can reach out here: **manan.sharma1205@gmail.com**
 
