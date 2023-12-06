@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">Your friendly neighbourhood Frontend Developer</h3>
 
 <p align="center"> <img src="https://i.ibb.co/M83hvXX/3fff93b3-01f7-416f-b201-0cdf28277a28.jpg"> </p>
 
