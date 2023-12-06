@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="center"> <img alt="Coding" width="400" src="https://i.ibb.co/J52LSyC/Untitled-Project.jpg"></img> </p>
+<p align="center"> <img src="https://i.ibb.co/M83hvXX/3fff93b3-01f7-416f-b201-0cdf28277a28.jpg"> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manansharma12&label=Profile%20views&color=0e75b6&style=flat" alt="manansharma12" /> </p>
