@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/manansharma1205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manansharma1205" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manansharma12&show_icons=true&locale=en" alt="manansharma12" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manansharma12&" alt="manansharma12" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manansharma12&show_icons=true&locale=en" alt="manansharma12" /></p>
 
 <!--
 **MananSharma12/MananSharma12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
