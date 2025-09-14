@@ -17,7 +17,10 @@
 <a href="https://linkedin.com/in/manansharma1205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manansharma1205" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manansharma12&show_icons=true&locale=en" alt="manansharma12" /></p>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MananSharma12&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananSharma12&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+</div>
 
 <!--
 **MananSharma12/MananSharma12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
