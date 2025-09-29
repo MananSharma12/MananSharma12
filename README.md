@@ -8,7 +8,7 @@
 
 - I’m currently exploring **Ethereum/Solana Ecosystem** and Web3 in general.
 - I have 4.5+ years of Experience as a Frontend Developer.
-- Core Skills: React/Vue/JS/TS/CSS/Tailwind/Magento/Shopify/Solidity/Rust 
+- Core Skills: React/Solidity/Vue/JS/TS/CSS/Tailwind/Magento/Shopify//Rust 
 - You can reach out here: **manan.sharma1205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
