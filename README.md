@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manansharma12&label=Profile%20views&color=0e75b6&style=flat" alt="manansharma12" /> </p>
 
-- I’m currently exploring **Ethereum/Solana Ecosystem** and Web3 in general.
-- I have 4.5+ years of Experience as a Frontend Developer.
-- Core Skills: React/Solidity/Vue/JS/TS/CSS/Tailwind/Magento/Shopify//Rust 
+- I’m currently working as a Senior Frontend Developer at <a href="https://www.reachplc.com" target="blank">Reach plc</a>
+- I have 5+ years of Experience as a Frontend Developer.
+- Core Skills: React/Next.js/Vue/Nuxt/JS/TS/CSS/Tailwind/Solidity/Magento/Shopify//Rust 
 - You can reach out here: **manan.sharma1205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
