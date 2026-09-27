@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Manan! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4200&pause=500&center=true&vCenter=true&width=435&lines=Frontend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4200&pause=500&center=true&vCenter=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manansharma12&label=Profile%20views&color=0e75b6&style=flat" alt="manansharma12" /> </p>
