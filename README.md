@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4200&pause=500&center=true&vCenter=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manansharma12&label=Profile%20views&color=0e75b6&style=flat" alt="manansharma12" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manansharma12&label=Profile%20views&color=0e75b6&style=flat" alt="manansharma12" /> </p> -->
 
 - Senior Frontend Engineer | Performance & AdTech Architecture @ <a href="https://www.reachplc.com" target="blank">Reach plc</a>
 - Current Focus: Engineering programmatic auction pipelines, CMP consent lifecycles, and core web vitals across high-traffic digital publishing platforms.
